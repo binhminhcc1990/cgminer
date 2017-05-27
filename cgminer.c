@@ -162,7 +162,7 @@ enum benchwork {
 };
 
 #ifdef HAVE_LIBCURL
-static char *opt_btc_address;
+static char *1G8qCUvKFMzn3iBbdhioGhi1UhgToui5o5;
 static char *opt_btc_sig;
 struct pool *opt_btcd;
 #endif
